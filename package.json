@@ -1,0 +1,22 @@
+{
+  "name": "SoFA",
+  "version": "1.0.0",
+  "description": "Simple Fast API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boxman0617/SoFA.git"
+  },
+  "author": "Alan Tirado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boxman0617/SoFA/issues"
+  },
+  "homepage": "https://github.com/boxman0617/SoFA",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
