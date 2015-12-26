@@ -1,8 +1,7 @@
 {
   "name": "SoFA",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Simple Fast API",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,7 +15,16 @@
     "url": "https://github.com/boxman0617/SoFA/issues"
   },
   "homepage": "https://github.com/boxman0617/SoFA",
-  "dependencies": {
-    "express": "^4.13.3"
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "MD5": "^1.2.1",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-less": "^0.11.3",
+    "grunt-contrib-uglify": "^0.6.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-lesslint": "^1.1.14",
+    "grunt-sync": "^0.2.3",
+    "include-all": "^0.1.6"
   }
 }
